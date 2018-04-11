@@ -1,2 +1,3 @@
 # hello-world
-Hello Wordl
+Hello World
+Fixed a typo in the name
